@@ -53,7 +53,6 @@ class MainActivity : AppCompatActivity() {
         if(permissionName ==Manifest)
         }**/
 
-
         drawingView = findViewById(R.id.drawing_view)
         drawingView?.setsizeforBrush(20.toFloat())
 
